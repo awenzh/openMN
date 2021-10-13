@@ -59,4 +59,7 @@ case class RnfChnl(p:ChnlParam) extends Bundle with IMasterSlave {
   override def asMaster():Unit = {
     master(REQ, RSP, SNP, DAT, DATE)
   } 
+
+
+  test
 }
