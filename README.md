@@ -1,3 +1,12 @@
+Open Mesh Network
+============
+Open Mesh Network(openMN) is SoC interconnect network based on CHI(Issue E.b) Spec.
+This project is designed using SpinalHDL.
+
+
+
+vscode://vscode.github-authentication/did-authenticate?windowid=7&code=fc7dafd221b22c09b5c1&state=e24656e1-2c54-4789-9c63-e96f472a651a
+
 Spinal Base Project
 ============
 This repository is a base SBT project added to help non Scala/SBT native people in their first steps.
