@@ -2,6 +2,12 @@ package openmn
 
 import spinal.core._
 
-object CHI{
-  
+object chi{
+
+  TXSACTIVE
+  RXSACTIVE
+  TXLINKACTIVEREQ
+  TXLINKACTIVEACK
+
+
 }
