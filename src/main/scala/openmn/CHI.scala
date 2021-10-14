@@ -3,6 +3,22 @@ package openmn
 import spinal.core._
 import java.util.ResourceBundle
 
+
+
+
+
+
+
+
+case class chiComParam ( QoS_Width : Int = 4,
+                         NodeID_Width : Int = 6,    //  max 64
+                         TxnID_Width : Int = 8,
+                         Opcode_Width : Int = 4,
+                         Size_Width : Int = 4,)
+
+
+
+
 object chi{
 
   TXSACTIVE
